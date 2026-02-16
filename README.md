@@ -9,7 +9,8 @@ class Adam:
         self.hobbies = ["Coding", "Video Games", "Lifting"]
 ```
 
-Skills
+## **Skills**
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=py,nodejs,ts,java)](https://skillicons.dev)
