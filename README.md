@@ -7,7 +7,11 @@ class Adam:
         self.based_in = "New Jersey"
         self.major = "Computer Science"
         self.hobbies = ["Coding", "Video Games", "Lifting"]
-```md
+```
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,ts,java)](https://skillicons.dev)
+
+
+
 👨🏻‍💻 About Me
 
 I have a strong interest in backend engineering.
