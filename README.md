@@ -8,6 +8,8 @@ class Adam:
         self.major = "Computer Science"
         self.hobbies = ["Coding", "Video Games", "Lifting"]
 ```
+
+Skills
 [![My Skills](https://skillicons.dev/icons?i=py,nodejs,ts,java)](https://skillicons.dev)
 
 
