@@ -7,7 +7,7 @@ class Adam:
         self.based_in = "New Jersey"
         self.major = "Computer Science"
         self.hobbies = ["Coding", "Video Games", "Lifting"]
-
+```md
 👨🏻‍💻 About Me
 
 I have a strong interest in backend engineering.
