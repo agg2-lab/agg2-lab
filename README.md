@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Adam! 
 
-<!--
-**agg2-lab/agg2-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  class Adam:
+    def __init__(self):
+      self.age = 24
+      self.based_in = "New Jersey"
+      self.major = "Computer Science"
+      self.hobbies = ["Coding", "Video Games", "Lifting"]
+👨🏻‍💻 About Me
+I have a great interest in backend engineering.
 
-Here are some ideas to get you started:
+MS Student at UPenn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I love surfing and lifting weights, spending time with friends.
+
+Let's connect :)
