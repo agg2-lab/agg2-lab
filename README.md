@@ -9,7 +9,8 @@ class Adam:
         self.hobbies = ["Coding", "Video Games", "Lifting"]
 ```
 
-## **Skills**
+<h1>Skills</h1>
+
 
 
 
