@@ -6,7 +6,7 @@ class Adam:
         self.age = 24
         self.based_in = "New Jersey"
         self.major = "Computer Science"
-        self.hobbies = ["Coding", "Video Games", "Lifting"]
+        self.hobbies = ["Coding", "Surfing", "Lifting"]
 ```
 
 <h1>Skills</h1>
@@ -22,7 +22,7 @@ class Adam:
 
 <h1>👨🏻‍💻 About Me</h1>
 
-I have a strong interest in backend engineering.
+I enjoy writing scripts for games I play
 
 MS student at UPenn.
 
