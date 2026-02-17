@@ -22,7 +22,7 @@ class Adam:
 
 <h1>👨🏻‍💻 About Me</h1>
 
-I enjoy writing scripts for games I play
+My favorite movie is the Secret Life of Walter Mitty
 
 MS student at UPenn.
 
